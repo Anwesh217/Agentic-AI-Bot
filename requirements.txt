@@ -1,0 +1,12 @@
+streamlit
+langchain>=0.0.348
+langchain-community
+langchain-openai
+langchain-core
+faiss-cpu
+pypdf
+sentence-transformers
+openai
+python-dotenv
+pytz
+pyyaml
